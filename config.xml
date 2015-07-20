@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-        <module>
-            <name>stampsdotcom</name>
-            <displayName><![CDATA[Stamps.com]]></displayName>
-            <version><![CDATA[1.0.0]]></version>
-            <description><![CDATA[PrestaShop install&eacute; et h&eacute;berg&eacute;]]></description>
-            <author><![CDATA[Stamps.com]]></author>
-            <tab><![CDATA[others]]></tab>
-            <is_configurable>1</is_configurable>
-            <need_instance>1</need_instance>
+<module>
+	<name>stampsdotcom</name>
+	<displayName><![CDATA[Stamps.com]]></displayName>
+	<version><![CDATA[13.1]]></version>
+	<description><![CDATA[Automate your USPS shipping.]]></description>
+	<author><![CDATA[Stamps.com]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
 	<limited_countries></limited_countries>
-        </module>
+</module>
